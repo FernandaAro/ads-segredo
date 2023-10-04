@@ -1,0 +1,15 @@
+C:\Users\ferna\Documents\Faculdade\cs\aula07-segredo\bin\Debug\net6.0\aula07-segredo.exe
+C:\Users\ferna\Documents\Faculdade\cs\aula07-segredo\bin\Debug\net6.0\aula07-segredo.deps.json
+C:\Users\ferna\Documents\Faculdade\cs\aula07-segredo\bin\Debug\net6.0\aula07-segredo.runtimeconfig.json
+C:\Users\ferna\Documents\Faculdade\cs\aula07-segredo\bin\Debug\net6.0\aula07-segredo.dll
+C:\Users\ferna\Documents\Faculdade\cs\aula07-segredo\bin\Debug\net6.0\aula07-segredo.pdb
+C:\Users\ferna\Documents\Faculdade\cs\aula07-segredo\obj\Debug\net6.0\aula07-segredo.csproj.AssemblyReference.cache
+C:\Users\ferna\Documents\Faculdade\cs\aula07-segredo\obj\Debug\net6.0\aula07-segredo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\Documents\Faculdade\cs\aula07-segredo\obj\Debug\net6.0\aula07-segredo.AssemblyInfoInputs.cache
+C:\Users\ferna\Documents\Faculdade\cs\aula07-segredo\obj\Debug\net6.0\aula07-segredo.AssemblyInfo.cs
+C:\Users\ferna\Documents\Faculdade\cs\aula07-segredo\obj\Debug\net6.0\aula07-segredo.csproj.CoreCompileInputs.cache
+C:\Users\ferna\Documents\Faculdade\cs\aula07-segredo\obj\Debug\net6.0\aula07-segredo.dll
+C:\Users\ferna\Documents\Faculdade\cs\aula07-segredo\obj\Debug\net6.0\refint\aula07-segredo.dll
+C:\Users\ferna\Documents\Faculdade\cs\aula07-segredo\obj\Debug\net6.0\aula07-segredo.pdb
+C:\Users\ferna\Documents\Faculdade\cs\aula07-segredo\obj\Debug\net6.0\aula07-segredo.genruntimeconfig.cache
+C:\Users\ferna\Documents\Faculdade\cs\aula07-segredo\obj\Debug\net6.0\ref\aula07-segredo.dll
