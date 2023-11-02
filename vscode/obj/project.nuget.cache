@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VHMlOeZVQJF799KvRa6PvVpbMCIB6QHavwjL1RuszQ7D4fuU6KCEDdq3F6pEwEwVkzDjBo0TU7F9md+UrKhZ0A==",
+  "dgSpecHash": "SErVYO+N3ybZYtJRZMt7tXiSR5z1AH1X2j9mszxTjPV0lx0/LPhOwItDkmitgCpelMJ1kCAsp2lI8UhQfDAhYQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ferna\\Documents\\Faculdade\\cs\\aula07-segredo\\aula07-segredo.csproj",
+  "projectFilePath": "C:\\Users\\ferna\\Documents\\dev\\segredo\\vscode\\aula07-segredo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
