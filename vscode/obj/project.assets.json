@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ferna\\Documents\\dev\\segredo\\vscode\\aula07-segredo.csproj",
+      "projectUniqueName": "C:\\Users\\ferna\\Documents\\dev\\graduation-segredo\\vscode\\aula07-segredo.csproj",
       "projectName": "aula07-segredo",
-      "projectPath": "C:\\Users\\ferna\\Documents\\dev\\segredo\\vscode\\aula07-segredo.csproj",
+      "projectPath": "C:\\Users\\ferna\\Documents\\dev\\graduation-segredo\\vscode\\aula07-segredo.csproj",
       "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ferna\\Documents\\dev\\segredo\\vscode\\obj\\",
+      "outputPath": "C:\\Users\\ferna\\Documents\\dev\\graduation-segredo\\vscode\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ferna\\AppData\\Roaming\\NuGet\\NuGet.Config"
